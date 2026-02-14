@@ -17,19 +17,16 @@
 </picture>
 
 <a href="https://github.com/sabyrkazen" target="_blank" rel="noopener">
-  <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/github/github-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="blocks/connect/github/github-light.svg">
-  <img src="blocks/connect/github/github-light.svg" alt="Hero banner" width="900">
+  <img src="blocks/connect/github/github-light.svg#gh-light-mode-only" width="900">
+  <img src="blocks/connect/github/github-dark.svg#gh-dark-mode-only" width="900">
 </a>
 
 <a href="https://t.me/sabyrkazen" target="_blank" rel="noopener">
-  <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/telegram/telegram-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="blocks/connect/telegram/telegram-light.svg">
-  <img src="blocks/connect/telegram/telegram-light.svg" alt="Hero banner" width="900">
+  <img src="blocks/connect/telegram/telegram-light.svg#gh-light-mode-only" width="900">
+  <img src="blocks/connect/telegram/telegram-dark.svg#gh-dark-mode-only" width="900">
 </a>
 
-<a href="mailto:sabyrkazen@gmail.com" target="_blank" rel="noopener">
-  <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/gmail/gmail-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="blocks/connect/gmail/gmail-light.svg">
-  <img src="blocks/connect/gmail/gmail-light.svg" alt="Hero banner" width="900">
+<a href="mailto:sabyrkazen@gmail.com">
+  <img src="blocks/connect/gmail/gmail-light.svg#gh-light-mode-only" width="900">
+  <img src="blocks/connect/gmail/gmail-dark.svg#gh-dark-mode-only" width="900">
 </a>
