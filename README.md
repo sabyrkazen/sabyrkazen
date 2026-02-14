@@ -16,20 +16,22 @@
   <img src="./blocks/stack/stack-light.svg" alt="Stack banner">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/github/github-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="blocks/connect/github/github-light.svg">
-  <img src="./blocks/connect/github/github-light.svg" alt="GitHub banner">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/telegram/telegram-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="blocks/connect/telegram/telegram-light.svg">
-  <img src="./blocks/connect/telegram/telegram-light.svg" alt="Telegram banner">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/gmail/gmail-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="blocks/connect/gmail/gmail-light.svg">
-  <img src="./blocks/connect/gmail/gmail-light.svg" alt="Gmail banner">
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/github/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/connect/github/github-light.svg">
+    <img src="./blocks/connect/github/github-light.svg" alt="GitHub banner">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/telegram/telegram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/connect/telegram/telegram-light.svg">
+    <img src="./blocks/connect/telegram/telegram-light.svg" alt="Telegram banner">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/gmail/gmail-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/connect/gmail/gmail-light.svg">
+    <img src="./blocks/connect/gmail/gmail-light.svg" alt="Gmail banner">
+  </picture>
+</div>
