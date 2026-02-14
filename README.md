@@ -19,23 +19,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/github/github-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="blocks/connect/github/github-light.svg">
-  <a href="https://github.com/sabyrkazen">
-    <img src="./blocks/connect/github/github-light.svg" alt="Hero banner" width="900">
-  </a>
+  <img src="./blocks/connect/github/github-light.svg" alt="Hero banner" width="900">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/telegram/telegram-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="blocks/connect/telegram/telegram-light.svg">
-  <a href="https://t.me/sabyrkazen"> 
-    <img src="./blocks/connect/telegram/telegram-light.svg" alt="Hero banner" width="900">
-  </a> 
+  <img src="./blocks/connect/telegram/telegram-light.svg" alt="Hero banner" width="900">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="blocks/connect/gmail/gmail-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="blocks/connect/gmail/gmail-light.svg">
-  <a href="mailto:sabyrkazen@gmail.com">
-    <img src="./blocks/connect/gmail/gmail-light.svg" alt="Hero banner" width="900">
-  </a>
+  <img src="./blocks/connect/gmail/gmail-light.svg" alt="Hero banner" width="900">
 </picture>
