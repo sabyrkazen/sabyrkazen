@@ -27,9 +27,9 @@
         <rect fill="black" fill-opacity="0" y="0.238636" width="134.029" height="14.5227"/>
     </a>
     <defs>
-        <linearGradient id="paint0_linear_11_518" x1="567.528" y1="-73.6515" x2="-88.7726" y2="60.1283" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#333333" stop-opacity="0"/>
-            <stop offset="0.648819" stop-color="#666666"/>
+        <linearGradient id="paint0_linear_11_518" x1="161.5" y1="147.5" x2="-57.9375" y2="54.7823" gradientUnits="userSpaceOnUse">
+            <stop offset="0.745826" stop-color="#666666"/>
+            <stop offset="0.926569" stop-color="#333333" stop-opacity="0"/>
         </linearGradient>
         <linearGradient id="paint1_linear_11_518" x1="601.143" y1="15.7143" x2="529.329" y2="424.152" gradientUnits="userSpaceOnUse">
             <stop offset="0.11827" stop-color="#333333" stop-opacity="0"/>
