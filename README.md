@@ -9,3 +9,9 @@
   <source media="(prefers-color-scheme: light)" srcset="blocks/about/about-light.svg">
   <img src="./blocks/about/about-light.svg" alt="Hero banner" width="900">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="blocks/stack/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="blocks/stack/stack-light.svg">
+  <img src="./blocks/stack/stack-light.svg" alt="Hero banner" width="900">
+</picture>
