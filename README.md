@@ -7,8 +7,8 @@
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="blocks/about/about-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="blocks/about/about-light.svg">
-    <img src="./blocks/about/about-light.svg" alt="About banner">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/about/about-dark.svg">
+    <img src="./blocks/about/about-dark.svg" alt="About banner">
   </picture>
   
   <picture>
