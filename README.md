@@ -26,8 +26,8 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="blocks/featured-project/featured-project-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="blocks/featured-project/featured-project-dark.svg">
-    <img src="blocks/featured-project/featured-project-dark.svg" alt="Featured Projects banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="blocks/featured-project/featured-project-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/featured-project/featured-project-light.svg">
+    <img src="blocks/featured-project/featured-project-light.svg" alt="Featured Projects banner" />
   </picture>
 </div>
