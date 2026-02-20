@@ -27,9 +27,11 @@
     <img src="./blocks/achievements/achievements-light.svg" alt="Achievements banner" />
   </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="blocks/featured-project/featured-project-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="blocks/featured-project/featured-project-light.svg">
-    <img src="blocks/featured-project/featured-project-light.svg" alt="Featured Projects banner" />
-  </picture>
+  <a href="https://github.com/sabyrkazen/roomify">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="blocks/featured-project/featured-project-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="blocks/featured-project/featured-project-light.svg">
+      <img src="blocks/featured-project/featured-project-light.svg" alt="Featured Projects banner" />
+    </picture>
+  </a>
 </div>
