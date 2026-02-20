@@ -22,7 +22,9 @@
   </picture>
 
   <picture>
-    <img src="./blocks/achievements/achievements.svg" alt="Achievements banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="blocks/achievements/achievements-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/achievements/achievements-light.svg">
+    <img src="./blocks/achievements/achievements-light.svg" alt="Achievements banner" />
   </picture>
 
   <picture>
