@@ -24,4 +24,10 @@
   <picture>
     <img src="./blocks/achievements/achievements.svg" alt="Achievements banner" />
   </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="blocks/featured-project/featured-project-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="blocks/featured-project/featured-project-dark.svg">
+    <img src="blocks/featured-project/featured-project-dark.svg" alt="Connect banner" />
+  </picture>
 </div>
